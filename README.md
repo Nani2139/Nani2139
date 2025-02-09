@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm **Uday Kumar Gorantla** — a passionate developer and final-year IT student at **IIIT Lucknow**, graduating in 2025.<br>
 💻 I specialize in building scalable web applications, and optimizing workflows.<br>
-🌱 I'm currently enhancing my skills in **Socket.IO, real-time applications, and backend optimization**.<br>
+🌱 I'm currently enhancing my skills in **Spring Boot, real-time applications, and React Native**.<br>
 📚 I love solving challenging coding problems, having solved **700+ problems** across platforms like LeetCode, Codeforces, and HackerEarth.<br>
 📧 Reach me at [udayiiitl039@gmail.com](mailto:udayiiitl039@gmail.com).
 
