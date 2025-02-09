@@ -14,10 +14,11 @@
 - Python
 - SQL
 - TypeScript
+- Java
 
 ### 🔧 **Technologies & Tools:**
 - ReactJS, NextJS
-- NodeJS, ExpressJS
+- NodeJS, ExpressJS, Spring Boot
 - MongoDB, MySQL, Firebase
 - Bootstrap, ChakraUI, AntD
 - Git/GitHub
