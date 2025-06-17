@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm **Uday Kumar Gorantla** — a passionate developer and final-year IT student at **IIIT Lucknow**, graduating in 2025.<br>
-💻 I specialize in building scalable web applications, and optimizing workflows.<br>
+💻 I specialize in building scalable web and mobile applications, and optimizing workflows.<br>
 🌱 I'm currently enhancing my skills in **Spring Boot, real-time applications, and React Native**.<br>
 📚 I love solving challenging coding problems, having solved **700+ problems** across platforms like LeetCode, Codeforces, and HackerEarth.<br>
 📧 Reach me at [udayiiitl039@gmail.com](mailto:udayiiitl039@gmail.com).
@@ -17,7 +17,7 @@
 - Java
 
 ### 🔧 **Technologies & Tools:**
-- ReactJS, NextJS
+- ReactJS,ReactNative
 - NodeJS, ExpressJS, Spring Boot
 - MongoDB, MySQL, Firebase
 - Bootstrap, ChakraUI, AntD
@@ -45,7 +45,7 @@ A web app that allows users to create professional resumes with customizable tem
 ---
 
 ## 🎖️ Achievements & Certifications:
-- **Knight at LeetCode** with a max rating of **1855**, solving over **350+ problems**.
+- **Knight at LeetCode** with a max rating of **1855**, solving over **450+ problems**.
 - **Top-tier AIR 273** in CodeKaze Contest among 40,000+ competitors.
 - **Top 3 position** in a hackathon organized by Samsung as part of the Samsung Innovation Campus.
 - Solved over **700+ coding challenges** across prominent platforms.
@@ -59,12 +59,9 @@ Led a team of **200+ members** to execute the annual sports event, achieving rec
 
 ---
 
-## 📈 GitHub Stats:
-![Uday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nani2139&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Uday%20Kumar%20Gorantla-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/uday-kumar-gorantla/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=flat&logo=web)](https://nani2139.github.io/My_Portfolio/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/udaykumar21039/)
 
 ---
