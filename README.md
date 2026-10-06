@@ -76,12 +76,14 @@ A self-correcting RAG chatbot that answers questions from your documents, with i
 - Built a **Streamlit** chat UI with source attribution and decision tracing across all pipeline nodes.
 - **Stack:** Python · LangGraph · ChromaDB · Sentence-Transformers · Tavily · Streamlit · LM Studio (Qwen 3.6-27B)
 
-### 🌆 [FixMyTown](https://github.com/Nani2139/FixMyTown)
-A civic issue reporting platform with real-time map tracking for municipal authorities.
+### 🌆 [FixMyTown](https://fixmytown.vercel.app)
+A Hyderabad street-issue map. People file and see reports only inside a 20 km circle of their live location.
 
-- Interactive map integration with **Leaflet.js** for marking and tracking public issues.
-- Scalable backend with **Node.js** and **MongoDB** handling concurrent reports.
-- **Stack:** React · Node.js · MongoDB · LeafletJS · Bootstrap
+- Map built with **Leaflet** and OpenStreetMap. Each pin is stamped with the nearest GHMC circle and locality.
+- Photo check with **Gemini** that suggests the issue type and rejects a photo that is not a street problem.
+- **Ask** searches filed tickets with embeddings, a vector index, keyword search, and reciprocal rank fusion, then answers only from those tickets.
+- **Stack:** Next.js · FastAPI · Firebase · Gemini · Groq · Leaflet
+- Live: https://fixmytown.vercel.app · Code: https://github.com/Nani2139/fixmytown-hyderabad
 
 ---
 
