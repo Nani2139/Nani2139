@@ -103,15 +103,20 @@ A Hyderabad street-issue map. People file and see reports only inside a 20 km ci
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nani2139&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nani2139&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<!-- stats:start -->
+Counted from public repositories. Forks are left out. A weekly workflow rewrites this block.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nani2139&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
+| | |
+|---|---|
+| Commits on the default branch | 159 |
+| Contributions since Apr 2023 | 197 |
+| Current streak | 2 days (6 Oct 2026 – 7 Oct 2026) |
+| Longest streak | 3 days (28 Dec 2024 – 30 Dec 2024) |
+| Public pull requests | 1 |
+| Public comments | 0 |
+| Stars | 0 |
+| Languages by code | JavaScript 32.2% · PHP 29.7% · Python 18.5% · TypeScript 10.2% · CSS 6.0% · HTML 3.4% |
+<!-- stats:end -->
 
 ---
 
