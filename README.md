@@ -112,15 +112,6 @@ A Hyderabad street-issue map. People file and see reports only inside a 20 km ci
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nani2139&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
-<!-- activity:start -->
-Public activity on this account. A weekly workflow rewrites this block from pull requests, comments, and repository languages.
-
-| | |
-|---|---|
-| Public pull requests | 1 |
-| Public comments | 0 |
-| Languages by code | JavaScript 32.2% · PHP 29.7% · Python 18.5% · TypeScript 10.2% · CSS 6.0% · HTML 3.4% |
-<!-- activity:end -->
 
 ---
 
