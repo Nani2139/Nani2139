@@ -101,25 +101,6 @@ A Hyderabad street-issue map. People file and see reports only inside a 20 km ci
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- stats:start -->
-Counted from public repositories. Forks are left out. A weekly workflow rewrites this block.
-
-| | |
-|---|---|
-| Commits on the default branch | 159 |
-| Contributions since Apr 2023 | 197 |
-| Current streak | 2 days (6 Oct 2026 – 7 Oct 2026) |
-| Longest streak | 3 days (28 Dec 2024 – 30 Dec 2024) |
-| Public pull requests | 1 |
-| Public comments | 0 |
-| Stars | 0 |
-| Languages by code | JavaScript 32.2% · PHP 29.7% · Python 18.5% · TypeScript 10.2% · CSS 6.0% · HTML 3.4% |
-<!-- stats:end -->
-
----
-
 ## 💡 What I'm Currently Working On
 
 - 🔍 **AI-powered search** — spell correction, query term-frequency analysis, and SERP relevance at Highspot
